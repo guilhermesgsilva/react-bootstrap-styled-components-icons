@@ -1,0 +1,35 @@
+Workshop
+
+$ npx create-react-app bootstrap-styled-components-icons
+$ cd bootstrap-styled-components
+
+https://react-bootstrap.github.io/
+$ npm install react-bootstrap bootstrap@5.1.3
+https://styled-components.com/
+$ npm install --save styled-components
+https://react-icons.github.io/react-icons
+$ npm install react-icons --save
+
+https://loremipsum.io/21-of-the-best-placeholder-image-generators/
+
+create components and import to App.js
+Navbar
+Cover
+About
+Footer
+
+import styled from "styled-components";
+const Styles = styled.div``
+
+semantic html for each component
+main
+nav
+section
+footer
+
+index.jsimport 'bootstrap/dist/css/bootstrap.min.css';
+
+Navbar.js
+bootstrap
+iconsate react-app bootra
+import { TiHome } from 'react-icons/ti';
